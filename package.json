@@ -1,0 +1,23 @@
+{
+  "name": "React-awesome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wngzhe/React-awesome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wngzhe/React-awesome/issues"
+  },
+  "homepage": "https://github.com/wngzhe/React-awesome#readme",
+  "devDependencies": {
+    "react": "^15.5.4"
+  }
+}

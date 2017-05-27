@@ -1,0 +1,21 @@
+{
+  "name": "React-awesome",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "wng <404313843@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wngzhe/React-awesome",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.5.4"
+  }
+}
