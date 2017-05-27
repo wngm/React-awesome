@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "react": "^15.5.4"
+    "react": "^15.5.4",
+    "babel": "^5.8.38"
   }
 }
